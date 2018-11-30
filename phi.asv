@@ -1,0 +1,3 @@
+function p = phi(x, y, z, epsilon)
+    fitnessX = -(epsilon + 1)*y 
+end
