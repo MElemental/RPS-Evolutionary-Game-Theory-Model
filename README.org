@@ -2,6 +2,6 @@
 This presents the code for the Rock, Paper, Scissors Evolutionary Game theory model. Originally a project for UNLV MATH 365 Spring 2017. Work done with Christian Cordova and Evan Thomas.
 * Notes
 *** Missing some original files, will need to find later.
-**** Technical Report to get added.
+    - Technical Report to get added.
 *** This code will run in /GNU Octave/.
 *** This will require some updated documentation.
